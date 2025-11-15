@@ -37,7 +37,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Ben Carter',
     role: 'Youth Outreach Coordinator',
-    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/imges/1%20(1).jpg?raw=true'
+    avatarUrl: 'https://raw.githubusercontent.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/refs/heads/main/imges/1%20(1).jpg?token=GHSAT0AAAAAADPBYMN43VGQJQS7VNVD6EA22IYXQLA'
   },
   {
     name: 'Chloe Davis',
