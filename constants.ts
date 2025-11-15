@@ -32,12 +32,12 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Dr. Anya Sharma',
     role: 'Lead Psychologist',
-    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/imges/WhatsApp%20Image%202025-11-15%20at%2011.32.49%20PM.jpeg?raw=true'
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prakhar%20Baranwal.jpg?raw=true'
   },
   {
     name: 'Ben Carter',
     role: 'Youth Outreach Coordinator',
-    avatarUrl: 'https://raw.githubusercontent.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/refs/heads/main/imges/1%20(1).jpg?token=GHSAT0AAAAAADPBYMN43VGQJQS7VNVD6EA22IYXQLA'
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Himank%20Choudhary.jpg?raw=true'
   },
   {
     name: 'Chloe Davis',
