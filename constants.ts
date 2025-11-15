@@ -32,12 +32,12 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Prakhar Baranwal',
     role: 'Project Lead, UI Designer and Project Tester',
-    avatarUrl: 'images/IMG_20251112_011932.jpg'
+    avatarUrl: 'https://github.com/MuscleBunny618/MindSpace-Building-Mental-Strength-For-GenZ/blob/main/images/IMG_20251112_011932.jpg?raw=true'
   },
   {
     name: 'Himank Choudhary',
     role: 'Frontend and Backend Developer, UI Designer',
-    avatarUrl: 'images/1.jpg'
+    avatarUrl: 'https://github.com/MuscleBunny618/MindSpace-Building-Mental-Strength-For-GenZ/blob/main/images/1.jpg?raw=true'
   },
   {
     name: 'Divyansh Batra',
