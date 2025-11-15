@@ -1,8 +1,10 @@
+
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Hyperlinks from './components/Hyperlinks';
 import Team from './components/Team';
+// FIX: Import Testimonials and FAQ components to render them.
 import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import SDG from './components/SDG';
@@ -33,6 +35,7 @@ const App: React.FC = () => {
           <Hero />
           <Hyperlinks />
           <Team />
+          {/* FIX: Render the Testimonials and FAQ components. */}
           <Testimonials />
           <FAQ />
           <SDG />

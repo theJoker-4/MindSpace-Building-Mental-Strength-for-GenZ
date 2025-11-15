@@ -8,7 +8,7 @@ const HyperlinkCard: React.FC<{ link: Hyperlink }> = ({ link }) => (
     href={link.url}
     target="_blank"
     rel="noopener noreferrer"
-    className="block p-6 bg-gray-900/50 border border-gray-800 rounded-lg hover:border-red-500 hover:-translate-y-1 transition-all duration-300 group h-full"
+    className="block p-6 bg-gray-900/50 border border-gray-800 rounded-lg hover:border-red-500 hover:-translate-y-2 hover:scale-105 hover:shadow-[0_0_15px_rgba(239,68,68,0.4)] transition-all duration-300 group h-full"
   >
     <h3 className="text-lg font-bold text-white mb-2 group-hover:text-red-500 transition-colors">{link.title}</h3>
     <p className="text-sm text-gray-400">{link.description}</p>

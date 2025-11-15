@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 const Logo = () => (
@@ -29,6 +30,7 @@ const Header: React.FC = () => {
         <nav className="hidden md:flex space-x-6 text-sm font-medium">
           <a href="#resources" className="hover:text-cyan-400 transition-colors">Resources</a>
           <a href="#team" className="hover:text-cyan-400 transition-colors">Team</a>
+          {/* FIX: Add navigation links for Testimonials and FAQ sections. */}
           <a href="#testimonials" className="hover:text-cyan-400 transition-colors">Testimonials</a>
           <a href="#faq" className="hover:text-cyan-400 transition-colors">FAQ</a>
         </nav>
