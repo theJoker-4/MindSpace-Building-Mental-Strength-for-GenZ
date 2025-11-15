@@ -32,12 +32,12 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Dr. Anya Sharma',
     role: 'Lead Psychologist',
-    avatarUrl: 'https://picsum.photos/seed/anya/200'
+    avatarUrl: 'https://i.imgur.com/uI66AMs.jpeg'
   },
   {
     name: 'Ben Carter',
     role: 'Youth Outreach Coordinator',
-    avatarUrl: 'https://picsum.photos/seed/ben/200'
+    avatarUrl: 'https://i.imgur.com/c5Bv6A6.jpeg'
   },
   {
     name: 'Chloe Davis',
