@@ -30,23 +30,62 @@ export const HYPERLINKS: Hyperlink[] = [
 
 export const TEAM_MEMBERS: TeamMember[] = [
   {
-    name: 'Prakhar Baranwal',
-    role: 'Project Lead, UI Designer and Project Tester',
-    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/main/images/IMG_20251112_011932.jpg?raw=true'
+    name: 'Dr. Anya Sharma',
+    role: 'Lead Psychologist',
+    avatarUrl: 'https://picsum.photos/seed/anya/200'
   },
   {
-    name: 'Himank Choudhary',
-    role: 'Frontend and Backend Developer, UI Designer',
-    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/main/images/1%20(1).jpg?raw=true'
+    name: 'Ben Carter',
+    role: 'Youth Outreach Coordinator',
+    avatarUrl: 'https://picsum.photos/seed/ben/200'
   },
   {
-    name: 'Divyansh Batra',
-    role: 'Data Expert and Information Researcher',
+    name: 'Chloe Davis',
+    role: 'Digital Wellness Expert',
     avatarUrl: 'https://picsum.photos/seed/chloe/200'
   },
   {
-    name: 'Prince Ranbeer',
-    role: 'Marketing/Communications Leader',
+    name: 'Leo Martinez',
+    role: 'Community Manager',
     avatarUrl: 'https://picsum.photos/seed/leo/200'
+  }
+];
+
+// FIX: Add TESTIMONIALS constant for the Testimonials component.
+export const TESTIMONIALS: Testimonial[] = [
+  {
+    quote: "MindSpace has been a game-changer for my mental health. The resources are so relevant and easy to understand. I finally feel like I have the tools to cope with stress.",
+    author: 'Alex Johnson',
+    role: 'University Student'
+  },
+  {
+    quote: "As a parent, I'm so grateful for this platform. It's helped me understand what my teenager is going through and how to support them better.",
+    author: 'Sarah Chen',
+    role: 'Parent'
+  },
+  {
+    quote: "The articles on digital wellbeing really opened my eyes. I've started setting boundaries with social media and feel so much more present and happy.",
+    author: 'Michael Rodriguez',
+    role: 'High School Student'
+  }
+];
+
+// FIX: Add FAQS constant for the FAQ component.
+export const FAQS: FAQItem[] = [
+  {
+    question: 'What is MindSpace?',
+    answer: 'MindSpace is a dedicated online platform providing resources and support for the mental well-being of Generation Z. We offer curated articles, tools, and community features to help young people navigate life\'s challenges.'
+  },
+  {
+    question: 'Who are the resources for?',
+    answer: 'Our resources are primarily designed for young adults and teenagers (Gen Z), but they can also be incredibly helpful for parents, educators, and anyone looking to understand and support the mental health of the younger generation.'
+  },
+  {
+    question: 'Is MindSpace a replacement for professional therapy?',
+    answer: 'No. While MindSpace offers valuable information and coping strategies, it is not a substitute for professional medical advice, diagnosis, or treatment. We encourage users to seek help from a qualified healthcare provider for any mental health concerns.'
+  },
+  {
+    question: 'How can I get involved?',
+    answer: 'We love community involvement! You can contribute by sharing our resources, participating in discussions, or even submitting your own story or article for consideration. Follow our social media channels to stay updated on opportunities.'
   }
 ];
