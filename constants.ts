@@ -51,39 +51,41 @@ export const TEAM_MEMBERS: TeamMember[] = [
   }
 ];
 
+// FIX: Add TESTIMONIALS constant for the Testimonials component.
 export const TESTIMONIALS: Testimonial[] = [
   {
-    quote: "MindSpace gave me the tools to navigate the pressures of college. I feel more in control and less overwhelmed. It's a game-changer for Gen Z.",
-    author: 'Jasmine K.',
+    quote: "MindSpace has been a game-changer for my mental health. The resources are so relevant and easy to understand. I finally feel like I have the tools to cope with stress.",
+    author: 'Alex Johnson',
     role: 'University Student'
   },
   {
-    quote: "Finally, a platform that actually understands what we're going through. The resources are relevant, and the community is incredibly supportive.",
-    author: 'Samuel R.',
-    role: 'High School Senior'
+    quote: "As a parent, I'm so grateful for this platform. It's helped me understand what my teenager is going through and how to support them better.",
+    author: 'Sarah Chen',
+    role: 'Parent'
   },
   {
-    quote: "As a parent, I'm so grateful for MindSpace. It's a positive, proactive resource that has helped my son open up about his mental health.",
-    author: 'Maria G.',
-    role: 'Parent'
+    quote: "The articles on digital wellbeing really opened my eyes. I've started setting boundaries with social media and feel so much more present and happy.",
+    author: 'Michael Rodriguez',
+    role: 'High School Student'
   }
 ];
 
+// FIX: Add FAQS constant for the FAQ component.
 export const FAQS: FAQItem[] = [
   {
     question: 'What is MindSpace?',
-    answer: 'MindSpace is a digital platform dedicated to empowering Gen Z with the tools, resources, and community support needed to build mental strength and resilience. We focus on proactive, accessible mental wellness.'
+    answer: 'MindSpace is a dedicated online platform providing resources and support for the mental well-being of Generation Z. We offer curated articles, tools, and community features to help young people navigate life\'s challenges.'
   },
   {
-    question: 'Is MindSpace a replacement for therapy?',
-    answer: 'No. MindSpace is a supportive resource for mental wellness but is not a substitute for professional medical advice, diagnosis, or treatment. We encourage users to seek professional help when needed and can provide resources to find a therapist.'
+    question: 'Who are the resources for?',
+    answer: 'Our resources are primarily designed for young adults and teenagers (Gen Z), but they can also be incredibly helpful for parents, educators, and anyone looking to understand and support the mental health of the younger generation.'
   },
   {
-    question: 'Who is this platform for?',
-    answer: 'Our primary audience is Gen Z (typically defined as individuals born between 1997 and 2012), but our resources can be valuable for anyone interested in improving their mental well-being, including parents and educators.'
+    question: 'Is MindSpace a replacement for professional therapy?',
+    answer: 'No. While MindSpace offers valuable information and coping strategies, it is not a substitute for professional medical advice, diagnosis, or treatment. We encourage users to seek help from a qualified healthcare provider for any mental health concerns.'
   },
   {
-    question: 'How is MindSpace related to SDG 3?',
-    answer: 'Our entire mission aligns with the UN Sustainable Development Goal 3: Good Health and Well-being. By promoting mental health awareness, providing accessible resources, and fostering a supportive community, we contribute directly to ensuring healthy lives and promoting well-being for all at all ages.'
+    question: 'How can I get involved?',
+    answer: 'We love community involvement! You can contribute by sharing our resources, participating in discussions, or even submitting your own story or article for consideration. Follow our social media channels to stay updated on opportunities.'
   }
 ];
