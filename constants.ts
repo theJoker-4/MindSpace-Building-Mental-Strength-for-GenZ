@@ -32,12 +32,12 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Prakhar Baranwal',
     role: 'Project Lead, UI Designer and Project Tester',
-    avatarUrl: 'https://picsum.photos/seed/anya/200'
+    avatarUrl: 'images/IMG_20251112_011932.jpg'
   },
   {
     name: 'Himank Choudhary',
     role: 'Frontend and Backend Developer, UI Designer',
-    avatarUrl: 'https://picsum.photos/seed/ben/200'
+    avatarUrl: 'images/1.jpg'
   },
   {
     name: 'Divyansh Batra',
