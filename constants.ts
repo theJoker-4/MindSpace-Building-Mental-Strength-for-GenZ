@@ -32,7 +32,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Dr. Anya Sharma',
     role: 'Lead Psychologist',
-    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/imges/IMG_20251112_011932.jpg?raw=true'
+    avatarUrl: 'https://raw.githubusercontent.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/refs/heads/main/imges/IMG_20251112_011932.jpg?token=GHSAT0AAAAAADPBYMN4D6ODPFG5RZXKOMZ22IYXV4A'
   },
   {
     name: 'Ben Carter',
