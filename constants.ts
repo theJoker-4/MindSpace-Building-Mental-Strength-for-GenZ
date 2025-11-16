@@ -39,6 +39,16 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: 'Frontend and Backend Developer, UI Designer and Information Researcher',
     avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Himank%20Choudhary.jpg?raw=true'
   },
+  {
+    name: 'Divyansh Batra',
+    role: 'Data Expert and Information Researcher',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Divyansh%20Batra.jpg?raw=true'
+  },
+  {
+    name: 'Prince Ranbeer',
+    role: 'Marketing/  Communications Leader',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prince%20Ranbeer.jpg?raw=true'
+  },
 ];
 
 // FIX: Add TESTIMONIALS constant for the Testimonials component.
