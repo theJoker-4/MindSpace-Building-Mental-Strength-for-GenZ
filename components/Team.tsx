@@ -19,7 +19,8 @@ const Team: React.FC = () => {
   return (
     <Section id="team">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-white mb-12">
-        Meet Our Experts
+        Meet The Team
+        A passionate team dedicated to empowering the next generation.
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
         {TEAM_MEMBERS.map((member) => (
