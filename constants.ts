@@ -31,24 +31,14 @@ export const HYPERLINKS: Hyperlink[] = [
 export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Prakhar Baranwal',
-    role: 'Project Lead, UI Designer and Project Tester',
+    role: 'Project Lead, UI Designer, Project Tester and Marketing Leader',
     avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prakhar%20Baranwal.jpg?raw=true'
   },
   {
     name: 'Himank Choudhary',
-    role: 'Frontend and Backend Developer, UI Designer',
+    role: 'Frontend and Backend Developer, UI Designer and Information Researcher',
     avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Himank%20Choudhary.jpg?raw=true'
   },
-  {
-    name: 'Divyansh Batra',
-    role: 'Data Expert and Information Researcher',
-    avatarUrl: 'https://picsum.photos/seed/chloe/200'
-  },
-  {
-    name: 'Prince Ranbeer',
-    role: 'Marketing/  Communications Leader',
-    avatarUrl: 'https://picsum.photos/seed/leo/200'
-  }
 ];
 
 // FIX: Add TESTIMONIALS constant for the Testimonials component.
