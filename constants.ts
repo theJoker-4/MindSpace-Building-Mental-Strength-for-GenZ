@@ -30,24 +30,24 @@ export const HYPERLINKS: Hyperlink[] = [
 
 export const TEAM_MEMBERS: TeamMember[] = [
   {
-    name: 'Dr. Anya Sharma',
-    role: 'Lead Psychologist',
-    avatarUrl: 'https://i.imgur.com/uI66AMs.jpeg'
+    name: 'Prakhar Baranwal',
+    role: 'Project Lead, UI Designer and Project Tester',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prakhar%20Baranwal.jpg?raw=true'
   },
   {
-    name: 'Ben Carter',
-    role: 'Youth Outreach Coordinator',
-    avatarUrl: 'https://i.imgur.com/c5Bv6A6.jpeg'
+    name: 'Himank Choudhary',
+    role: 'Frontend and Backend Developer, UI Designer',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Himank%20Choudhary.jpg?raw=true'
   },
   {
-    name: 'Chloe Davis',
-    role: 'Digital Wellness Expert',
-    avatarUrl: 'https://picsum.photos/seed/chloe/200'
+    name: 'Divyansh Batra',
+    role: 'Data Expert and Information Researcher',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Divyansh%20Batra.jpg?raw=true'
   },
   {
-    name: 'Leo Martinez',
-    role: 'Community Manager',
-    avatarUrl: 'https://picsum.photos/seed/leo/200'
+    name: 'Prince Ranbeer',
+    role: 'Marketing/  Communications Leader',
+    avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prince%20Ranbeer.jpg?raw=true'
   }
 ];
 
