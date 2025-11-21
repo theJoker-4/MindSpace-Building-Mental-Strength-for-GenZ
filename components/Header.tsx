@@ -18,7 +18,7 @@ const Logo = () => (
         </linearGradient>
       </defs>
     </svg>
-    <span className="text-xl font-bold text-white">MindSpace</span>
+    <span className="text-2xl font-bold text-white">MindSpace</span>
   </div>
 );
 

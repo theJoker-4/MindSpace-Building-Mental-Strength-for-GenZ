@@ -24,7 +24,18 @@ const App: React.FC = () => {
   }, []);
 
   return (
-    <div className="bg-black text-gray-300 antialiased overflow-x-hidden">
+    <div className="bg-black text-gray-300 antialiased overflow-x-hidden relative min-h-screen">
+      {/* Background Image: Aesthetic Neural Network / Digital Mind */}
+      <div 
+        className="fixed inset-0 z-0 pointer-events-none"
+        style={{
+          backgroundImage: 'url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop")',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          opacity: 0.25
+        }}
+      />
+      
       <CursorGlow position={cursorPos} />
       <div className="relative z-10">
         <Header />
