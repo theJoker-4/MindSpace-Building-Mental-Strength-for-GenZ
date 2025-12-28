@@ -4,6 +4,9 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Hyperlinks from './components/Hyperlinks';
 import Team from './components/Team';
+import Testimonials from './components/Testimonials';
+import FAQ from './components/FAQ';
+import Contact from './components/Contact';
 import SDG from './components/SDG';
 import Footer from './components/Footer';
 import CursorGlow from './components/CursorGlow';
@@ -32,7 +35,7 @@ const App: React.FC = () => {
           backgroundImage: 'url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
-          opacity: 0.25
+          opacity: 0.15
         }}
       />
       
@@ -43,7 +46,10 @@ const App: React.FC = () => {
           <Hero />
           <Hyperlinks />
           <Team />
+          <Testimonials />
           <SDG />
+          <FAQ />
+          <Contact />
         </main>
         <Footer />
       </div>
