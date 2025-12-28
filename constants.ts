@@ -31,7 +31,7 @@ export const HYPERLINKS: Hyperlink[] = [
 export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Prakhar Baranwal',
-    role: 'Project Lead , UI Designer and Project Tester'
+    role: 'Project Lead , UI Designer and Project Tester',
     avatarUrl: 'https://github.com/theJoker-4/MindSpace-Building-Mental-Strength-for-GenZ/blob/main/images/Prakhar%20Baranwal.jpg?raw=true'
   },
   {
