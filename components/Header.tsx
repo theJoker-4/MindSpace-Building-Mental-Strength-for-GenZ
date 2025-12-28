@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 
 const Logo = () => (
   <div className="flex items-center gap-3">
-    <svg width="40" height="40" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="40" height="40" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/argssvg">
       <circle cx="50" cy="50" r="45" fill="#22d3ee" />
       <path d="M50 22C38 22 28 32 28 50C28 68 38 78 50 78V22Z" fill="#2dd4bf" />
       <path d="M50 22C62 22 72 32 72 50C72 68 62 78 50 78V22Z" fill="#f43f5e" />
@@ -60,9 +60,6 @@ const Header: React.FC = () => {
   const navLinks = [
     { name: 'Resources', href: '#resources' },
     { name: 'Team', href: '#team' },
-    { name: 'Impact', href: '#sdg' },
-    { name: 'FAQ', href: '#faq' },
-    { name: 'Contact', href: '#contact' },
   ];
 
   return (
@@ -81,12 +78,6 @@ const Header: React.FC = () => {
               {link.name}
             </a>
           ))}
-          <a 
-            href="#contact" 
-            className="px-5 py-2 rounded-full bg-red-500 hover:bg-red-600 text-white transition-all duration-300 shadow-lg shadow-red-500/20"
-          >
-            Get Involved
-          </a>
         </nav>
 
         {/* Mobile Menu Toggle */}

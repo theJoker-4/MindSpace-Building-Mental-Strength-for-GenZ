@@ -4,10 +4,6 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Hyperlinks from './components/Hyperlinks';
 import Team from './components/Team';
-import Testimonials from './components/Testimonials';
-import FAQ from './components/FAQ';
-import Contact from './components/Contact';
-import SDG from './components/SDG';
 import Footer from './components/Footer';
 import CursorGlow from './components/CursorGlow';
 
@@ -46,10 +42,6 @@ const App: React.FC = () => {
           <Hero />
           <Hyperlinks />
           <Team />
-          <Testimonials />
-          <SDG />
-          <FAQ />
-          <Contact />
         </main>
         <Footer />
       </div>
